@@ -1,6 +1,6 @@
 # OpenClassRooms_P7
 
-Réaliser un modèle de Scoring sur des classes désiquilibrées pour des prédictions de non remboursement de crédit.
+Réaliser un modèle de Scoring sur des classes déséquilibrées pour des prédictions de non remboursement de crédit.
 
 Réaliser un Dashboard interactif prédisant les performances client au travers d'une API.
 
