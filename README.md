@@ -1,4 +1,4 @@
-# OpenClassRooms_P7
+# Scoring and unbalanced classes
 
 Réaliser un modèle de Scoring sur des classes déséquilibrées pour des prédictions de non remboursement de crédit.
 
